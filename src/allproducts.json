@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 12 Pro",
+        "desc": "Apple iPhone 12th generation",
+        "price": 999,
+        "color": "#33505a",
+        "image": "../images/image1.png",
+        "out_of_stock": false
+    },
+    {
+        "id": 2,
+        "name": "Pixel 5",
+        "desc": "Google Pixel phone 5th generation",
+        "price": 699,
+        "color": "#00ac51",
+        "image": "../images/image2.png",
+        "out_of_stock": false
+    },
+    {
+        "id": 3,
+        "name": "M1 Macbook Air",
+        "desc": "Apple Macbook air with apple silicon",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "../images/image3.png",
+        "out_of_stock": true
+    },
+    {
+        "id": 4,
+        "name": "Playstation 5",
+        "desc": "Sony Playstation 5th generation",
+        "price": 500,
+        "color": "#544ee4",
+        "image": "../images/image4.png",
+        "out_of_stock": false
+    },
+    {
+        "id": 5,
+        "name": "Airpods Pro",
+        "desc": "Apple Aipods Pro 1st generation",
+        "price": 200,
+        "color": "#e3e4e9",
+        "image": "../images/image5.png",
+        "out_of_stock": true
+    },
+    {
+        "id": 6,
+        "name": "iPad Pro",
+        "desc": "Apple iPad Pro 2020 edition",
+        "price": 799,
+        "color": "#f73984",
+        "image": "../images/image6.png",
+        "out_of_stock": true
+    },   
+    {
+        "id": 7,
+        "name": "Galaxy S21",
+        "desc": "Samsung Galaxy S21 Ultra",
+        "price": 1299,
+        "color": "#1c1c1c",
+        "image": "../images/image7.png",
+        "out_of_stock": true
+    },   
+    {
+        "id": 8,
+        "name": "OnePlus Nord",
+        "desc": "Blue Tide, 128GB Storage",
+        "price": 1899,
+        "color": "#1c1c1c",
+        "image": "../images/image8.png",
+        "out_of_stock": true
+    },
+    {
+        "id": 9,
+        "name": "boAt Smartwatch",
+        "desc": "Sleek Body, HR & SpO2",
+        "price": 1899,
+        "color": "#1c1c1c",
+        "image": "../images/image9.png",
+        "out_of_stock": false
+    },
+    {
+        "id": 10,
+        "name": "Men Jeans",
+        "desc": "Pair of two",
+        "price": 99,
+        "color": "#1c1c1c",
+        "image": "../images/image10.png",
+        "out_of_stock": false
+    },
+    {
+        "id": 11,
+        "name": "American Tourister",
+        "desc": "Stylish bags for you",
+        "price": 199,
+        "color": "#1c1c1c",
+        "image": "../images/image11.png",
+        "out_of_stock": false
+    }
+
+]
